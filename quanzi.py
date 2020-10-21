@@ -262,7 +262,7 @@ class CirclesComments(object):
     def run(self):
         while True:
             self.get_comments()
-            time.sleep(60)
+            time.sleep(120)
 
 
 
